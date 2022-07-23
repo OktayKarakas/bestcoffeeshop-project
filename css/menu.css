@@ -250,6 +250,12 @@ a:active {
   .nav-main-link-menu {
     background-color: rgba(250, 245, 110, 0.91);
   }
+  .typography {
+    padding: 5px;
+  }
+  .typography a {
+    font-size: 12px !important;
+  }
   .container {
     display: block;
   }

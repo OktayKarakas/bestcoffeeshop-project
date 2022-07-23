@@ -196,6 +196,12 @@ a:active {
   .nav-join-button {
     color: black !important;
   }
+  .typography {
+    padding: 5px;
+  }
+  .typography a {
+    font-size: 12px !important;
+  }
   .hero img {
     width: 100%;
   }
