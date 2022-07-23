@@ -221,6 +221,12 @@ a:active {
   }
 }
 @media screen and (max-width: 280px) {
+  .typography {
+    padding: 5px;
+  }
+  .typography a {
+    font-size: 12px !important;
+  }
   .hero {
     width: 280px;
   }
