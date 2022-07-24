@@ -306,4 +306,13 @@ a:active {
     width: 720px !important;
   }
 }
+@media screen and (min-width: 2000px) {
+  .hero {
+    grid-gap: 0px;
+    width: 2000px;
+  }
+  .footer {
+    margin-top: 30%;
+  }
+}
 /* Media End */
